@@ -2,6 +2,15 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
 ![Medical AI](https://img.shields.io/badge/Domain-MedicalAI-green)
+![CNN](https://img.shields.io/badge/CNN-Baseline-0A66C2?style=for-the-badge)
+![VGG](https://img.shields.io/badge/VGG-DeepCNN-555555?style=for-the-badge)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-Scaled-00A86B?style=for-the-badge)
+![Xception](https://img.shields.io/badge/Xception-Final_Model-D72638?style=for-the-badge)
+![ViT](https://img.shields.io/badge/ViT-Transformer-6A0DAD?style=for-the-badge)
+
+
+
+![Period](https://img.shields.io/badge/Period-2024.5~2024.09-blue)
 
 ---
 
@@ -209,7 +218,8 @@ Hierarchical 구조는:
 
 ## 📊 Performance
 
-<img width="990" height="471" alt="image" src="https://github.com/user-attachments/assets/b0c47adb-9249-49b0-9093-ae28303037b8" />
+<img width="990" height="471" alt="image" src="https://github.com/user-attachments/assets/a068f3e6-2e71-47f2-b5ef-68f535b36036" />
+
 
 
 <br><br>
