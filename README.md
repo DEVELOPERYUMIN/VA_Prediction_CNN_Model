@@ -212,14 +212,18 @@ Hierarchical 구조는:
 <img width="990" height="471" alt="image" src="https://github.com/user-attachments/assets/7bcaa5d5-89a2-4e25-a09e-615d195e053a" />
 
 
-- Level 1 Confusion Mat & ROC Curve
-- <img width="1556" height="614" alt="image" src="https://github.com/user-attachments/assets/10cf4778-c3f5-436c-af3a-4dccc992bdee" />
 
-- Level 2A Confusion Mat & ROC Curve
-- <img width="1642" height="692" alt="image" src="https://github.com/user-attachments/assets/a164951a-3756-41d3-b981-8a7d789a69b3" />
 
-- Level 2B Confusion Mat & ROC Curve
-- <img width="1642" height="622" alt="image" src="https://github.com/user-attachments/assets/31e9259d-5aa4-4375-b1a9-8f616f7ce15b" />
+
+
+### Level 1 Confusion Mat & ROC Curve
+ <img width="1556" height="614" alt="image" src="https://github.com/user-attachments/assets/10cf4778-c3f5-436c-af3a-4dccc992bdee" />
+
+### Level 2A Confusion Mat & ROC Curve
+ <img width="1642" height="692" alt="image" src="https://github.com/user-attachments/assets/a164951a-3756-41d3-b981-8a7d789a69b3" />
+
+### Level 2B Confusion Mat & ROC Curve
+ <img width="1642" height="622" alt="image" src="https://github.com/user-attachments/assets/31e9259d-5aa4-4375-b1a9-8f616f7ce15b" />
 
 
 ---
@@ -276,13 +280,3 @@ Hierarchical 구조는:
 
 ---
 
-이 구조가 지금 가장 깔끔하고 “연구 논리 흐름”에 맞아.
-
-원하면 다음 단계로:
-
-* 🔬 논문 스타일로 더 academic하게 톤 올리기
-* 💼 기업용으로 30% 줄여서 간결하게 만들기
-* 🌍 완전 영어 논문형 버전 만들기
-* 📊 아키텍처 다이어그램 텍스트까지 README용으로 정리
-
-어디까지 끌어올릴지 말해줘 😎
