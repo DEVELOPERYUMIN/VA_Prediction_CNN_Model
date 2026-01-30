@@ -9,15 +9,16 @@
 ![ViT](https://img.shields.io/badge/ViT-Transformer-6A0DAD?style=for-the-badge)
 
 
-
-![Period](https://img.shields.io/badge/Period-2024.5~2024.09-blue)
-
 ---
 
 # 👁 Visual Acuity Prediction from Fundus Images
 
 ---
 
+- **기간** : 2024.04 – 2025.09
+- **형태** : 산학 협력 기반 개인 연구 프로젝트 (Cyber Safety 연구실 소속)  
+- **데이터 출처** : 모 의과대학  
+- **역할** : 데이터 전처리, CNN 모델 설계, 5-Fold 검증, 성능 분석
 
 
 ---
