@@ -1,7 +1,7 @@
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![Medical AI](https://img.shields.io/badge/Domain-MedicalAI-green)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge)
+![Medical AI](https://img.shields.io/badge/Domain-Medical_AI-green?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-Baseline-0A66C2?style=for-the-badge)
 ![VGG](https://img.shields.io/badge/VGG-DeepCNN-555555?style=for-the-badge)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet-Scaled-00A86B?style=for-the-badge)
@@ -17,7 +17,10 @@
 # 👁 Visual Acuity Prediction from Fundus Images
 
 ---
-**문제 제기 → 데이터 재설계 → 모델 선택 → 아키텍처 제안 → 학습 전략 → 실험 검증 → 기여 → 결론**
+
+
+
+---
 
 ## 🧠 Abstract
 
