@@ -1,4 +1,7 @@
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![Medical AI](https://img.shields.io/badge/Domain-MedicalAI-green)
 
 ---
 
@@ -206,11 +209,24 @@ Hierarchical 구조는:
 
 ## 📊 Performance
 
+<img width="990" height="471" alt="image" src="https://github.com/user-attachments/assets/7bcaa5d5-89a2-4e25-a09e-615d195e053a" />
+
+
 | Stage    | Task           | F1 Score |
 | -------- | -------------- | -------- |
 | Level 1  | (0,1) vs (2,3) | 0.9146   |
 | Level 2A | 0 vs 1         | 0.7122   |
 | Level 2B | 2 vs 3         | 0.7765   |
+
+- Level 1 result
+- <img width="1556" height="614" alt="image" src="https://github.com/user-attachments/assets/10cf4778-c3f5-436c-af3a-4dccc992bdee" />
+
+- Level 2A result
+- <img width="1642" height="692" alt="image" src="https://github.com/user-attachments/assets/a164951a-3756-41d3-b981-8a7d789a69b3" />
+
+- Level 2B result
+- <img width="1642" height="622" alt="image" src="https://github.com/user-attachments/assets/31e9259d-5aa4-4375-b1a9-8f616f7ce15b" />
+
 
 ---
 
