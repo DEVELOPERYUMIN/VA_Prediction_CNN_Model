@@ -13,11 +13,9 @@
 
 # 👁 Visual Acuity Prediction from Fundus Images
 
----
 
-- **기간** : 2024.04 – 2025.09
+> 2024.04 – 2025.09 | CS Lab – 안저 이미지 기반 시력 예측 개인 연구 (지도교수 지도 하 수행, 의과대학 임상 데이터 협력)
   
----
 
 ## 🧠 Abstract
 
