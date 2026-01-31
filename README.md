@@ -36,7 +36,6 @@
 * 동일 환자 이미지가 train/validation/test에 동시에 포함
 * 심각한 클래스 불균형
 * 클래스 간 특징 차이에 대한 분석 부족
-* 높은 Train Accuracy 대비 낮은 Validation Accuracy (Overfitting 의심)
 
 이는 실제 임상 환경에서 모델이 일반화되지 않을 가능성을 의미한다.
 
